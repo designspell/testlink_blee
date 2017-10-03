@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bleetech.in" resolutions="1x" timestamp="1507024716955">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bleetech.in" resolutions="1x" timestamp="1507029678772">
   <folder name="css">
     <file name="site_global.css" crc="4114083670"/>
-    <file name="master_a-master.css" crc="490536840" ref="bleetv:askblee:bleewatch:contact-us:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4254741083" ref="bleetv:askblee:bleewatch:contact-us:index"/>
-    <file name="bleetv.css" crc="320847076" ref="bleetv"/>
-    <file name="nomq_bleetv.css" crc="3822026349" ref="bleetv"/>
-    <file name="askblee.css" crc="3792494317" ref="askblee"/>
-    <file name="nomq_askblee.css" crc="70728893" ref="askblee"/>
-    <file name="bleewatch.css" crc="311058871" ref="bleewatch"/>
-    <file name="nomq_bleewatch.css" crc="4006609146" ref="bleewatch"/>
-    <file name="contact-us.css" crc="407898619" ref="contact-us"/>
-    <file name="nomq_contact-us.css" crc="4166490937" ref="contact-us"/>
-    <file name="index.css" crc="188103530" ref="index"/>
-    <file name="nomq_index.css" crc="3996641770" ref="index"/>
+    <file name="master_a-master.css" crc="472390952" ref="bleetv:askblee:bleewatch:contact-us:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="22836339" ref="bleetv:askblee:bleewatch:contact-us:index"/>
+    <file name="bleetv.css" crc="3799882921" ref="bleetv"/>
+    <file name="nomq_bleetv.css" crc="3872939340" ref="bleetv"/>
+    <file name="askblee.css" crc="4116210443" ref="askblee"/>
+    <file name="nomq_askblee.css" crc="4081695371" ref="askblee"/>
+    <file name="bleewatch.css" crc="3764204778" ref="bleewatch"/>
+    <file name="nomq_bleewatch.css" crc="460529648" ref="bleewatch"/>
+    <file name="contact-us.css" crc="177836468" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="4254331593" ref="contact-us"/>
+    <file name="index.css" crc="218634815" ref="index"/>
+    <file name="nomq_index.css" crc="281350068" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bleewatch:askblee:bleetv:contact-us"/>
@@ -131,28 +131,28 @@
       <caption webpage="bleewatch" alt=""/>
       <caption webpage="bleewatch" alt=""/>
     </file>
-    <file name="website slider-01320x105.jpg" crc="337861061" seo="true" ref="index">
+    <file name="website slider-01720x236.jpg" crc="4033648318" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="website slider-02320x105.jpg" crc="11788836" seo="true" ref="index">
+    <file name="website slider-02720x236.jpg" crc="211996597" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="website slider-03320x105.jpg" crc="154866011" seo="true" ref="index">
+    <file name="website slider-03720x236.jpg" crc="256278834" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="website slider-04320x105.jpg" crc="3933914125" seo="true" ref="index">
+    <file name="website slider-04720x236.jpg" crc="81604418" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="snippets-01110x110.jpg" crc="326543883" seo="true" ref="index">
+    <file name="snippets-01185x186.jpg" crc="3888555240" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="snippets-02110x110.jpg" crc="423090217" seo="true" ref="index">
+    <file name="snippets-02185x186.jpg" crc="522549699" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="snippets-03110x111.jpg" crc="155354664" seo="true" ref="index">
+    <file name="snippets-03184x185.jpg" crc="3948330171" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blee the change slider-01320x69.jpg" crc="4222236075" seo="true" ref="index">
+    <file name="blee the change slider-01720x155.jpg" crc="3808645834" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blee watch slider-01.jpg" crc="366795129" seo="true" ref="bleewatch">
@@ -186,31 +186,31 @@
     <file name="talk.jpg" crc="4041798697" seo="true" ref="bleewatch">
       <caption webpage="bleewatch" alt=""/>
     </file>
-    <file name="blee watch slider-01320x105.jpg" crc="435810027" seo="true" ref="bleewatch">
+    <file name="blee watch slider-01720x236.jpg" crc="379790744" seo="true" ref="bleewatch">
       <caption webpage="bleewatch" alt=""/>
     </file>
-    <file name="listen320x66.jpg" crc="3806380889" seo="true" ref="bleewatch">
+    <file name="listen720x148.jpg" crc="3993390809" seo="true" ref="bleewatch">
       <caption webpage="bleewatch" alt=""/>
     </file>
-    <file name="dance-02320x69.jpg" crc="458538945" seo="true" ref="bleewatch">
+    <file name="dance-02720x155.jpg" crc="79553202" seo="true" ref="bleewatch">
       <caption webpage="bleewatch" alt=""/>
     </file>
-    <file name="help-03320x69.jpg" crc="33662825" seo="true" ref="bleewatch">
+    <file name="help-03720x155.jpg" crc="4019625822" seo="true" ref="bleewatch">
       <caption webpage="bleewatch" alt=""/>
     </file>
-    <file name="talk320x66.jpg" crc="236211444" seo="true" ref="bleewatch">
+    <file name="talk720x148.jpg" crc="139700125" seo="true" ref="bleewatch">
       <caption webpage="bleewatch" alt=""/>
     </file>
     <file name="ask blee slider-04.jpg" crc="3872370837" seo="true" ref="askblee">
       <caption webpage="askblee" alt=""/>
     </file>
-    <file name="ask blee slider-04320x77.jpg" crc="96050344" seo="true" ref="askblee">
+    <file name="ask blee slider-04720x172.jpg" crc="3816068382" seo="true" ref="askblee">
       <caption webpage="askblee" alt=""/>
     </file>
     <file name="bleetv youtube channel for the deaf.jpg" crc="4028269201" seo="true" ref="bleetv">
       <caption webpage="bleetv" alt=""/>
     </file>
-    <file name="bleetv youtube channel for the deaf320x105.jpg" crc="3811774852" seo="true" ref="bleetv">
+    <file name="bleetv youtube channel for the deaf720x236.jpg" crc="27973715" seo="true" ref="bleetv">
       <caption webpage="bleetv" alt=""/>
     </file>
     <file name="investors.png" crc="8247364" seo="true" ref="contact-us">
@@ -218,9 +218,9 @@
       <caption webpage="contact-us" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4105762834" seo="true" mt="1507024609448" redirect="true"/>
-  <file name="bleewatch.html" crc="3783936780" seo="true" mt="1507024609448" redirect="true"/>
-  <file name="askblee.html" crc="234230351" seo="true" mt="1507024609448" redirect="true"/>
-  <file name="bleetv.html" crc="32013178" seo="true" mt="1507024609448" redirect="true"/>
-  <file name="contact-us.html" crc="504082793" seo="true" mt="1507024609448" redirect="true"/>
+  <file name="index.html" crc="476403476" seo="true" mt="1507029647404" redirect="true"/>
+  <file name="bleewatch.html" crc="67916079" seo="true" mt="1507029647404" redirect="true"/>
+  <file name="askblee.html" crc="3927606801" seo="true" mt="1507029647404" redirect="true"/>
+  <file name="bleetv.html" crc="3886511080" seo="true" mt="1507029647404" redirect="true"/>
+  <file name="contact-us.html" crc="7615414" seo="true" mt="1507029647404" redirect="true"/>
 </manifest>
