@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bleetech.in/index.html</loc>
-    <lastmod>2017-09-24</lastmod>
+    <lastmod>2017-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -44,10 +44,34 @@
     <image:image>
       <image:loc>http://bleetech.in/images/003-medium_poster_.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/website%20slider-01320x105.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/website%20slider-02320x105.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/website%20slider-03320x105.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/website%20slider-04320x105.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/snippets-01110x110.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/snippets-02110x110.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/snippets-03110x111.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/blee%20the%20change%20slider-01320x69.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bleetech.in/bleewatch.html</loc>
-    <lastmod>2017-09-24</lastmod>
+    <lastmod>2017-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -95,10 +119,25 @@
     <image:image>
       <image:loc>http://bleetech.in/images/talk.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/blee%20watch%20slider-01320x105.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/listen320x66.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/dance-02320x69.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/help-03320x69.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/talk320x66.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bleetech.in/askblee.html</loc>
-    <lastmod>2017-09-24</lastmod>
+    <lastmod>2017-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -122,10 +161,13 @@
     <image:image>
       <image:loc>http://bleetech.in/images/ask%20blee%20slider-04.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/ask%20blee%20slider-04320x77.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bleetech.in/bleetv.html</loc>
-    <lastmod>2017-09-24</lastmod>
+    <lastmod>2017-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -149,10 +191,13 @@
     <image:image>
       <image:loc>http://bleetech.in/images/bleetv%20youtube%20channel%20for%20the%20deaf.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/bleetv%20youtube%20channel%20for%20the%20deaf320x105.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bleetech.in/contact-us.html</loc>
-    <lastmod>2017-09-24</lastmod>
+    <lastmod>2017-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
