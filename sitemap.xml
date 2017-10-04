@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bleetech.in/index.html</loc>
-    <lastmod>2017-10-03</lastmod>
+    <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -33,12 +33,12 @@
       <image:loc>http://bleetech.in/images/003-medium_poster_.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bleetech.in/images/blee%20the%20change%20slider-01720x155.jpg</image:loc>
+      <image:loc>http://bleetech.in/images/blee%20the%20change%20slider-01720x236.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://bleetech.in/bleewatch.html</loc>
-    <lastmod>2017-10-03</lastmod>
+    <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -104,7 +104,7 @@
   </url>
   <url>
     <loc>http://bleetech.in/askblee.html</loc>
-    <lastmod>2017-10-03</lastmod>
+    <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>http://bleetech.in/bleetv.html</loc>
-    <lastmod>2017-10-03</lastmod>
+    <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -164,7 +164,7 @@
   </url>
   <url>
     <loc>http://bleetech.in/contact-us.html</loc>
-    <lastmod>2017-10-03</lastmod>
+    <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
