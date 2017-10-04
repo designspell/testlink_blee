@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bleetech.in" resolutions="1x" timestamp="1507105029354">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bleetech.in" resolutions="1x" timestamp="1507106083165">
   <folder name="css">
     <file name="site_global.css" crc="224248659"/>
     <file name="master_a-master.css" crc="3838881109" ref="index:askblee:bleewatch:bleetv:contact-us"/>
     <file name="nomq_preview_master_a-master.css" crc="3999239771" ref="index:askblee:bleewatch:bleetv:contact-us"/>
-    <file name="index.css" crc="34479779" ref="index"/>
-    <file name="nomq_index.css" crc="4126170017" ref="index"/>
-    <file name="askblee.css" crc="3853057" ref="askblee"/>
-    <file name="nomq_askblee.css" crc="4071838506" ref="askblee"/>
-    <file name="bleewatch.css" crc="487411064" ref="bleewatch"/>
-    <file name="nomq_bleewatch.css" crc="3991667773" ref="bleewatch"/>
-    <file name="bleetv.css" crc="124332474" ref="bleetv"/>
-    <file name="nomq_bleetv.css" crc="26003190" ref="bleetv"/>
-    <file name="contact-us.css" crc="4134307603" ref="contact-us"/>
-    <file name="nomq_contact-us.css" crc="4079822481" ref="contact-us"/>
+    <file name="index.css" crc="3940755535" ref="index"/>
+    <file name="nomq_index.css" crc="4262519001" ref="index"/>
+    <file name="askblee.css" crc="3843140405" ref="askblee"/>
+    <file name="nomq_askblee.css" crc="3921487631" ref="askblee"/>
+    <file name="bleewatch.css" crc="4237718010" ref="bleewatch"/>
+    <file name="nomq_bleewatch.css" crc="14783604" ref="bleewatch"/>
+    <file name="bleetv.css" crc="295813608" ref="bleetv"/>
+    <file name="nomq_bleetv.css" crc="474074551" ref="bleetv"/>
+    <file name="contact-us.css" crc="426700044" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="181996907" ref="contact-us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bleewatch:askblee:bleetv:contact-us"/>
@@ -192,9 +192,9 @@
       <caption webpage="contact-us" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4123831162" seo="true" mt="1507104994828" redirect="true"/>
-  <file name="bleewatch.html" crc="3949446608" seo="true" mt="1507099723328" redirect="true"/>
-  <file name="askblee.html" crc="4273381135" seo="true" mt="1507099723259" redirect="true"/>
-  <file name="bleetv.html" crc="4204705561" seo="true" mt="1507099723259" redirect="true"/>
-  <file name="contact-us.html" crc="114327097" seo="true" mt="1507099723259" redirect="true"/>
+  <file name="index.html" crc="60172661" seo="true" mt="1507106031271" redirect="true"/>
+  <file name="bleewatch.html" crc="203012556" seo="true" mt="1507106031271" redirect="true"/>
+  <file name="askblee.html" crc="4200217878" seo="true" mt="1507106031271" redirect="true"/>
+  <file name="bleetv.html" crc="217298252" seo="true" mt="1507106031271" redirect="true"/>
+  <file name="contact-us.html" crc="114406316" seo="true" mt="1507106031271" redirect="true"/>
 </manifest>
