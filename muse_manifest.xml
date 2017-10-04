@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bleetech.in" resolutions="1x" timestamp="1507099778211">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bleetech.in" resolutions="1x" timestamp="1507102130971">
   <folder name="css">
     <file name="site_global.css" crc="224248659"/>
     <file name="master_a-master.css" crc="3838881109" ref="index:askblee:bleewatch:bleetv:contact-us"/>
     <file name="nomq_preview_master_a-master.css" crc="3999239771" ref="index:askblee:bleewatch:bleetv:contact-us"/>
-    <file name="index.css" crc="4049691292" ref="index"/>
-    <file name="nomq_index.css" crc="33008794" ref="index"/>
+    <file name="index.css" crc="4151864986" ref="index"/>
+    <file name="nomq_index.css" crc="79498124" ref="index"/>
     <file name="askblee.css" crc="3853057" ref="askblee"/>
     <file name="nomq_askblee.css" crc="4071838506" ref="askblee"/>
     <file name="bleewatch.css" crc="487411064" ref="bleewatch"/>
@@ -121,7 +121,7 @@
       <caption webpage="contact-us" alt=""/>
       <caption webpage="contact-us" alt=""/>
     </file>
-    <file name="website slider-01-u4806-fr.jpg" crc="4261082165" ref="index"/>
+    <file name="website slider-01-u4806-fr.jpg" crc="461959965" ref="index"/>
     <file name="website slider-02-u4802-fr.jpg" crc="436085851" ref="index"/>
     <file name="website slider-03-u4810-fr.jpg" crc="362114572" ref="index"/>
     <file name="website slider-04-u4814-fr.jpg" crc="184329564" ref="index"/>
@@ -192,7 +192,7 @@
       <caption webpage="contact-us" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4187567080" seo="true" mt="1507099723259" redirect="true"/>
+  <file name="index.html" crc="3776161656" seo="true" mt="1507102000909" redirect="true"/>
   <file name="bleewatch.html" crc="3949446608" seo="true" mt="1507099723328" redirect="true"/>
   <file name="askblee.html" crc="4273381135" seo="true" mt="1507099723259" redirect="true"/>
   <file name="bleetv.html" crc="4204705561" seo="true" mt="1507099723259" redirect="true"/>
