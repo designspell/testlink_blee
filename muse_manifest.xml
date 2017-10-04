@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bleetech.in" resolutions="1x" timestamp="1507104197844">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bleetech.in" resolutions="1x" timestamp="1507105029354">
   <folder name="css">
     <file name="site_global.css" crc="224248659"/>
     <file name="master_a-master.css" crc="3838881109" ref="index:askblee:bleewatch:bleetv:contact-us"/>
     <file name="nomq_preview_master_a-master.css" crc="3999239771" ref="index:askblee:bleewatch:bleetv:contact-us"/>
-    <file name="index.css" crc="100291613" ref="index"/>
-    <file name="nomq_index.css" crc="4128900330" ref="index"/>
+    <file name="index.css" crc="34479779" ref="index"/>
+    <file name="nomq_index.css" crc="4126170017" ref="index"/>
     <file name="askblee.css" crc="3853057" ref="askblee"/>
     <file name="nomq_askblee.css" crc="4071838506" ref="askblee"/>
     <file name="bleewatch.css" crc="487411064" ref="bleewatch"/>
@@ -192,7 +192,7 @@
       <caption webpage="contact-us" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3879372834" seo="true" mt="1507104122174" redirect="true"/>
+  <file name="index.html" crc="4123831162" seo="true" mt="1507104994828" redirect="true"/>
   <file name="bleewatch.html" crc="3949446608" seo="true" mt="1507099723328" redirect="true"/>
   <file name="askblee.html" crc="4273381135" seo="true" mt="1507099723259" redirect="true"/>
   <file name="bleetv.html" crc="4204705561" seo="true" mt="1507099723259" redirect="true"/>
