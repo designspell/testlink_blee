@@ -29,6 +29,15 @@
     <image:image>
       <image:loc>http://bleetech.in/images/003-medium_poster_.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/bleewatch_snippet125x125.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/askblee_snippet125x125.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/bleetv_snippet125x125.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bleetech.in/bleewatch.html</loc>
@@ -95,6 +104,24 @@
     <image:image>
       <image:loc>http://bleetech.in/images/blee%20help215x215.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/blee%20watch%20slider-01360x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/blee%20listen108x108.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/blee%20talk108x108.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/blee%20dance108x108.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/blee%20help108x108.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/blee_specs3323x202.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bleetech.in/askblee.html</loc>
@@ -122,6 +149,9 @@
     <image:image>
       <image:loc>http://bleetech.in/images/askblee_cover691x172.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/askblee_cover346x86.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bleetech.in/bleetv.html</loc>
@@ -148,6 +178,9 @@
     </image:image>
     <image:image>
       <image:loc>http://bleetech.in/images/bleetv%20youtube%20channel%20for%20the%20deaf720x236.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bleetech.in/images/bleetv%20youtube%20channel%20for%20the%20deaf360x118.jpg</image:loc>
     </image:image>
   </url>
   <url>
